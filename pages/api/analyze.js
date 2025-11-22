@@ -1,5 +1,5 @@
-import { DEBATE_DADDY_PROMPT } from "../../../lib/llmPrompt";
-import { scoreConversation } from "../../../lib/scoreEngine";
+import { DEBATE_DADDY_PROMPT } from "../../lib/llmPrompt";
+import { scoreConversation } from "../../lib/scoreEngine";
 
 // Use OpenAI's API or any LLM backend of your choice
 // This is a placeholder call you can wire later.
